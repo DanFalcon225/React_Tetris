@@ -16,3 +16,4 @@ You may also see any lint errors in the console.
 
 ### `Game View`
 
+<img width="732" alt="Screenshot 2022-09-03 at 21 25 46" src="https://user-images.githubusercontent.com/93957570/188286836-3a22f679-51d3-4a1d-bb95-648b128b707f.png">
