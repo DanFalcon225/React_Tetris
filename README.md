@@ -16,9 +16,11 @@ You may also see any errors in the console.
 
 ## `Game logic`:
 
-Rows section - calculates each row which was cleared during the game
-Level section - after every 10 cleared rows level increases hence speed of tetromino increases as well
-Score section - score counted for every cleared row by the following formula: cleared row * level
+* Rows section - calculates each row which was cleared during the game
+
+* Level section - after every 10 cleared rows level increases hence speed of tetromino increases as well
+
+* Score section - score counted for every cleared row by the following formula: cleared row * level
 
 ## `Gameplay`:
 
