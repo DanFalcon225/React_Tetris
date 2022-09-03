@@ -14,15 +14,13 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-## `Game View`
-
 ## `Game logic`:
 
 Rows section - calculates each row which was cleared during the game
 Level section - after every 10 cleared rows level increases hence speed of tetromino increases as well
 Score section - score counted for every cleared row by the following formula: cleared row * level
 
-## `Control`:
+## `Gameplay`:
 
 Movements: down, left and right arrow keys (hold the down key to increase the tetromino speed)
 Tetromino rotation: up arrow key
