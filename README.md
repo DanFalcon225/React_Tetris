@@ -24,8 +24,8 @@ You may also see any errors in the console.
 
 ## `Gameplay`:
 
-Movements: down, left and right arrow keys (hold the down key to increase the tetromino speed)
-Tetromino rotation: up arrow key
+* Movements: down, left and right arrow keys (hold the down key to increase the tetromino speed)
+* Tetromino rotation: up arrow key
 
 
 <img width="732" alt="Screenshot 2022-09-03 at 21 25 46" src="https://user-images.githubusercontent.com/93957570/188286836-3a22f679-51d3-4a1d-bb95-648b128b707f.png">
